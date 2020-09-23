@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<DB1>
+     <ANOTHERTABLE>
+          <RECORD>
+               <ANOTHERID Type= 'Long Ineger'> 1 </ANOTHERID>
+               <ANOTHERFIELD1 Type= 'Text'>
+               yet even more data in this field
+               </ANOTHERFIELD1>
+               <ANOTHERFIELD2 Type= 'Date/Time'> 12/12/99 </ANOTHERFIELD2>
+          </RECORD>
+          <RECORD>
+               <ANOTHERID Type= 'Long Ineger'> 2 </ANOTHERID>
+               <ANOTHERFIELD1 Type= 'Text'>
+               more data
+               </ANOTHERFIELD1>
+               <ANOTHERFIELD2 Type= 'Date/Time'> 1/1/00 </ANOTHERFIELD2>
+          </RECORD>
+          <RECORD>
+               <ANOTHERID Type= 'Long Ineger'> 3 </ANOTHERID>
+               <ANOTHERFIELD1 Type= 'Text'>
+               ksdfjkafks
+               </ANOTHERFIELD1>
+               <ANOTHERFIELD2 Type= 'Date/Time'> 5/14/44 </ANOTHERFIELD2>
+          </RECORD>
+          <RECORD>
+               <ANOTHERID Type= 'Long Ineger'> 4 </ANOTHERID>
+               <ANOTHERFIELD1 Type= 'Text'>
+               fdfdsfdsfds
+               </ANOTHERFIELD1>
+               <ANOTHERFIELD2 Type= 'Date/Time'> 8/19/22 </ANOTHERFIELD2>
+          </RECORD>
+     </ANOTHERTABLE>
+     <SOMETABLE1>
+          <RECORD>
+               <ID Type= 'Long Ineger'> 2 </ID>
+               <SOMEFIELD1 Type= 'Text'>
+               testing
+               </SOMEFIELD1>
+               <SOMEFIELD2 Type= 'Text'>
+               hopethisworks
+               </SOMEFIELD2>
+          </RECORD>
+     </SOMETABLE1>
+</DB1>
